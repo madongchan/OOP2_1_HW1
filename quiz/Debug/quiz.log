@@ -1,4 +1,0 @@
-﻿  quiz.cpp
-C:\Users\mdc00\source\repos\quiz\quiz\quiz.cpp(31): error C4716: 'examinePairedParenthesis': 값을 반환해야 합니다.
-C:\Users\mdc00\source\repos\quiz\quiz\quiz.cpp(24): error C4716: 'countWords': 값을 반환해야 합니다.
-C:\Users\mdc00\source\repos\quiz\quiz\quiz.cpp(7): error C4716: 'countMatchedNumberLetterInString': 값을 반환해야 합니다.

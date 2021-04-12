@@ -1,0 +1,4 @@
+﻿  allQuiz.cpp
+C:\Users\mdc00\source\repos\allQuiz\allQuiz\allQuiz.cpp(133,13): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\mdc00\source\repos\allQuiz\allQuiz\allQuiz.cpp(137,13): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  allQuiz.vcxproj -> C:\Users\mdc00\source\repos\allQuiz\Debug\allQuiz.exe
